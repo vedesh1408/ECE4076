@@ -12,11 +12,11 @@ ECE4076 is a computer vision unit at Monash University, covering both classical 
 - Week 7: Clustering and gaussian mixture models 
 - Week 8: Logistic regression
 - Week 9: Understanding gradient descent
-- Week 10: Object detection with Alexnet and Resnets (to be improved)
-- Week 11: Object recognition with RCNNs and YOLO (to be improved)
-- Week 12: Image segmentation with U-Nets (todo)
+- Week 10: Object detection with Alexnet and Resnets
+- Week 11: Object recognition with RCNNs and YOLO
+- Week 12: Image segmentation with U-Nets
 
-There is some additional material we unfortunately don't have time to cover in class in the [extra content folder ](/extra_content)
+There is some additional material we unfortunately don't have time to cover in class in the [bonus content folder ](/bonus_content)
 * Vision transformers 
 * Generative Adversarial Networks (todo)
 * Variational Autoencoders (todo)
